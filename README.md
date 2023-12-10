@@ -7,17 +7,19 @@
 - Input Map
 <img width="170" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/dd9c41e4-3c75-4911-9eae-b2eb80af4bed">
 
-Gunakan file csv untuk roadmap dengan format seperti dalam folder Graf diatas
+1. Gunakan file csv untuk roadmap dengan format seperti dalam folder Graf diatas.
+
 
 - Input Titik Start dan Tujuan
 <img width="186" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/dd647dd4-2207-436b-b537-28ddaf87b462">
 
-Input titik start dan tujuan sesuai dengan data yang ada dalam file csv
+2. Input titik start dan tujuan sesuai dengan data yang ada dalam file csv.
+
 
 - Output
 <img width="192" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/d1c8aa38-1393-456c-8536-fb8a7f7d1eaf">
 
-Output berupa rute terbaik dengan masing-masing node yang dilalui serta total jarak yang ditempuh
+3. Output berupa rute terbaik dengan masing-masing node yang dilalui serta total jarak yang ditempuh.
 
 
 
