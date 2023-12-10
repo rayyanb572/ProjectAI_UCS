@@ -1,6 +1,7 @@
 # ProjectAI_UCS
 
 | NIM | Nama |
+| --- | --- |
 | G6401211027 | Nismara Mayzalia |
 | G6401211030 | Ester Bina Br. Damanik |
 | G6401211033 | Ifdha'ul Fitri |
