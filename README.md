@@ -34,4 +34,4 @@ Kelompok 7 - P1
 
 # Referensi
 
-https://github.com/nidadinch/UniformCostSearch/blob/main/ucs.py
+https://github.com/nidadinch/UniformCostSearch/
