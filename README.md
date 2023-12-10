@@ -21,8 +21,7 @@
 
 3. Output berupa rute terbaik dengan masing-masing node yang dilalui serta total jarak yang ditempuh.
 
-
-
+# Anggota Kelompok
 
 Kelompok 7 - P1
 | NIM | Nama |
