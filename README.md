@@ -31,3 +31,7 @@ Kelompok 7 - P1
 | G6401211033 | Ifdha'ul Fitri |
 | G6401211087 | Rayyan Baihaqi |
 | G6401211096 | Medina Fitri Maulida |
+
+# Referensi
+
+https://github.com/nidadinch/UniformCostSearch/blob/main/ucs.py
