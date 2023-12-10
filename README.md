@@ -1,4 +1,4 @@
-# ProjectAI_UCS
+# Penerapan Algoritma UCS untuk Optimasi Rute Pengantaran Barang oleh Kurir Paket di Kabupaten Bogor
 
 | NIM | Nama |
 | --- | --- |
