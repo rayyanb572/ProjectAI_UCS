@@ -1,5 +1,7 @@
 # Penerapan Algoritma UCS untuk Optimasi Rute Pengantaran Barang oleh Kurir Paket di Kabupaten Bogor
 
+  Merupakan proyek yang berisi tentang implementasi dari metode Uninformed Search dengan menggunakan bahasa pemrograman Python dan pendekatan Uniform Cost Search (UCS) untuk menentukan rute yang paling optimal atau yang paling rendah costnya untuk kurir paket dari suatu titik awal ke suatu titik akhir dalam bentuk jarak dari kantor agen kurir ke kantor lainnya. 
+
 | NIM | Nama |
 | --- | --- |
 | G6401211027 | Nismara Mayzalia |
