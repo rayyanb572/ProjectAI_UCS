@@ -5,19 +5,22 @@
 # Cara Penggunaan
 
 - Input Map
-<img width="170" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/dd9c41e4-3c75-4911-9eae-b2eb80af4bed">
+<img width="508" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/644bb5e6-010b-461c-b96f-2668ec3a3655">
+
 
 Gunakan file csv untuk roadmap dengan format seperti dalam folder Graf diatas.
 
 
 - Input Titik Start dan Tujuan
-<img width="186" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/dd647dd4-2207-436b-b537-28ddaf87b462">
+<img width="501" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/175c120f-4ba4-47e7-889f-c63f3b292313">
+
 
 Input titik start dan tujuan sesuai dengan data yang ada dalam file csv.
 
 
 - Output
-<img width="192" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/d1c8aa38-1393-456c-8536-fb8a7f7d1eaf">
+<img width="499" alt="image" src="https://github.com/rayyanb572/ProjectAI_UCS/assets/125993858/9965863a-4b5e-44cb-8c86-12c5ffe82f7d">
+
 
 Output berupa rute terbaik dengan masing-masing node yang dilalui serta total jarak yang ditempuh.
 
